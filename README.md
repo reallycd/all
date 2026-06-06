@@ -1,5 +1,9 @@
 # all
+可命令安装，不必fork
 git clone --depth=1 https://github.com/reallycd/scrapy.git
+
+https://github.com/iawia002/lux#download-a-video
+https://github.com/ytdl-org/youtube-dl
 
 已执行。
 git clone https://github.com/xiaopeng163/python-dev-container-demo.git container相关/docker
