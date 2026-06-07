@@ -1,4 +1,5 @@
-# all
+#https://github.com/stars
+
 可命令安装，不必fork，看以下的示例项目。https://github.com/reallycd/aria2
 甚至都可以直接在外部项目上进入Codespaces，所以尽量不fork
 
