@@ -1,5 +1,6 @@
 # all
 可命令安装，不必fork，看以下的示例项目。https://github.com/reallycd/aria2
+甚至都可以直接在外部项目上进入
 
 
 下面这些都准备删掉。不过暂时还在测试。
