@@ -1,8 +1,12 @@
 
 感兴趣或有用的项目进行了中括号标记。
-01和64包含多个项目，还有一些项目链接指向的是CSDN博客或微信公众号文章（如第11、12、65-83、96项）。
+
+01和64包含多个项目，还有一些项目链接指向的是CSDN博客或微信公众号文章（如第11、12、65-83、96项）。有大概5个项目已经被删除了。
+
 
 干货！python爬虫100个入门项目，github爬虫经典案例
+
+
 
 淘宝模拟登录
 天猫商品数据爬虫
@@ -170,6 +174,7 @@ git clone https://github.com/LUCY78765580/Python-web-scraping.git 爬虫100/64_P
 git clone https://github.com/yhangf/PythonCrawler.git 爬虫100/99_PythonCrawler
 
 
+下面是微信公众号的链接。
 
 65. python爬虫的时候对Json数据的解析
 "https://mp.weixin.qq.com/s/57W2axrqEB9hbIA9mgpP0g"
