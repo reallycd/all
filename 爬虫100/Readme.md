@@ -1,13 +1,13 @@
 Code模式下的序号才是正确的。不要看preview。
 感兴趣或有用的项目进行了中括号标记。
 
-01和64包含多个项目，还有一些项目链接指向的是CSDN博客或微信公众号文章（如第11、12、65-83、96项）。有大概5个项目已经被删除了。
+00，01和64包含多个项目，还有一些项目链接指向的是CSDN博客或微信公众号文章（如第11、12、65-83、96项）。有大概5个项目已经被删除了。
 
 
 干货！python爬虫100个入门项目，github爬虫经典案例
 
+65-83，相关的源码在这里。
 git clone https://github.com/wistbean/learn_python3_spider 爬虫100/00_learn_python3_spider
-
 淘宝模拟登录
 天猫商品数据爬虫
 爬取淘宝我已购买的宝贝数据
@@ -201,7 +201,7 @@ git clone https://github.com/yhangf/PythonCrawler.git 爬虫100/99_PythonCrawler
 
 
 
-下面是微信公众号的链接。
+下面是微信公众号的链接，除最后一个，其他的都在00项目下。
 
 65. python爬虫的时候对Json数据的解析
 "https://mp.weixin.qq.com/s/57W2axrqEB9hbIA9mgpP0g"
