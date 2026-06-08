@@ -6,7 +6,7 @@ Code模式下的序号才是正确的。不要看preview。
 
 干货！python爬虫100个入门项目，github爬虫经典案例
 
-
+git clone https://github.com/wistbean/learn_python3_spider 爬虫100/00_learn_python3_spider
 
 淘宝模拟登录
 天猫商品数据爬虫
