@@ -174,6 +174,33 @@ git clone https://github.com/LUCY78765580/Python-web-scraping.git 爬虫100/64_P
 git clone https://github.com/yhangf/PythonCrawler.git 爬虫100/99_PythonCrawler
 
 
+64. 糗事百科
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/QSBK.py"
+84. 百度帖吧
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/tieba.py"
+85. pixabay图片网站
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/pixabay.py"
+86. pexels图片网
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/pexels.py"
+87. info社区
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/BoLiBei.py"
+88. 教务网
+"https://github.com/LUCY78765580/Python-web-scraping/blob/master/JWCJ.py"
+89. 拉勾
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/LaGou"
+90. 豆瓣
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/DouBan"
+91. 抓取手机App数据 & 95. App抓取并存入MongoDB
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao"
+92. 断点续爬 & 97. 断点续爬并存入MySQL
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1"
+93. scrapy爬多级网页及图片（一般方法)
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua"
+94. scrapy爬多级网页及图片（ImagesPipeline)
+"https://github.com/LUCY78765580/Python-web-scraping/tree/master/XiaoHua2"
+
+
+
 下面是微信公众号的链接。
 
 65. python爬虫的时候对Json数据的解析
